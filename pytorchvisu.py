@@ -16,7 +16,7 @@
 #import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-plt.style.use(["ggplot", "pytorchvisu.mplstyle"])
+plt.style.use(["ggplot", "tensorflowvisu.mplstyle"])
 #import matplotlib
 #matplotlib.use('macosx') #this is the default on mac
 #print("matplotlib version: " + matplotlib.__version__)
